@@ -38,7 +38,7 @@ st.write(range(10))
 # Images
 from PIL import Image
 
-img = Image.open("nyn.png")
+img = Image.open("1080x1080.webp")
 st.image(img, width=300, caption="Nienke and Nacho")
 
 # Video
